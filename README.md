@@ -35,7 +35,7 @@ I combine robust backend architecture with intuitive frontend design to deliver 
 
 ## 📫 Reach Out
 
-* LinkedIn: https://www.linkedin.com/in/harsh-dubey11
+* LinkedIn: https://www.linkedin.com/in/harshdubey11
 * Email: harsh.110901@gmail.com
 
 ---
